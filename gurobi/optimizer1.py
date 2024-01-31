@@ -7,7 +7,7 @@ from gurobipy import GRB
 try:
     rangeofAgents = 15
     startagent = 2
-    num_items = 100
+    num_items = 4
     num_instances = 30
     # num_agents = 15
     # num_items = 30
