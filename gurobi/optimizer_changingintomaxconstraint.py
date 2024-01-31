@@ -8,7 +8,7 @@ try:
     rangeofAgents = 7
     startagent = 7
     num_items = 100
-    # num_instances = 1000
+    num_instances = 1000
     infeasiblecount=0
     # num_agents = 15
     # num_items = 30
